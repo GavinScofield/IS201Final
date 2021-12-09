@@ -1,0 +1,187 @@
+.antibold {
+    font-style: normal;
+}
+
+.missionstatementfontsize {
+    font-size: medium;
+}
+
+.margin1{
+    margin: 10px;
+}
+
+.box1{
+    width: 600px;
+    height: 600px;
+}
+.bold{
+    font-weight: bold;
+    font-size: large;
+}
+/*
+.ResumeHeader {
+    color: lightgray;
+}
+*/
+a:hover {
+    text-decoration: underline;
+    font-size: medium;
+    font-weight: bold;
+}
+/* body{
+    background-color:linen ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.common{
+     background-color:beige;
+    border: solid  2px rgb(199, 37, 37);
+    position: absolute;
+}
+*/
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100;
+    z-index: 2;
+    border-bottom: solid 1px darkgrey;
+}
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 350px;
+    bottom: 64px;
+    z-index: 1;
+    border-right: solid 1px darkgrey;
+}
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 375px;
+    padding-left: 75px;
+}
+.footer{
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    text-align: center;
+    font-style: italic;
+    position: fixed;
+}
+.subheader{
+    float: right;
+}
+/*body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(4, 0, 61);
+    background-color: rgba(0, 0, 0, 0.200);                    
+} */
+/*h2,h3 {
+   color:white;
+   background-color: black;
+}
+a {
+    color:darkred;
+    text-decoration: none;
+}*/
+a:hover {
+    text-decoration: underline;
+    font-size: medium;
+    font-weight: bold;
+}
+/*
+a:visited{
+    color: blue;
+}
+
+li{
+   font-size: small;
+   color: rgb(97, 0, 0);
+   font-weight: normal;
+   font-style: italic;
+} */
+
+.ResumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+.Indexbackground 
+{background-image: url("images/GOLOM.jpg");
+background-position:top left;
+background-repeat: repeat; /*Chrome version*/
+/* Internet explore version */
+}
+/* These styles were created to demonstrate the box model */
+.box1{
+    border: solid 2px white ;
+    padding: 5px;
+}
+.box2 {padding: 5px;}
+
+.box3{margin: 5px;}
+
+.box4{padding-left: 10px; 
+        margin: 100px;
+        border-right: solid 5px blue;}
+        /* these are the approved styles for the site */
+
+.tableauheader{
+    padding-left: 500px;
+}
+.bufferpicsaboutme {
+    padding-left: 50px;
+}
+.headercolor {
+    color: #f8b195;
+}
+.subheadercolor {
+    color: #f67280;
+}
+.mainbodypadding {
+    padding: 10px;
+}
+.aboutmeheadercolor {
+    color: #f67e7d;
+}
+.aboutmesubheadercolor {
+    color: #843b62;
+}
+.headerfontstyle{
+    font-family: cursive;
+}
+.aboutmeheaderfontstyle{
+    font-family: fantasy;
+}
+a:hover {
+    text-decoration: underline;
+    font-size: medium;
+    font-weight: bold;}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px ;
+    padding: 10px;
+      }
+.centerimg {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+      }
+.floatleft {
+    text-align: left;
+    position: relative;
+    color: white;
+}
+.centertext{
+    text-align: center;
+}
+.textitalics{
+    font-style: italic;
+    font-weight: bold;}
